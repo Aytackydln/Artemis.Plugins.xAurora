@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis.Plugins.xAurora", "Artemis.Plugins.xAurora\Artemis.Plugins.xAurora.csproj", "{CDC84084-2670-4EF5-941B-D685B2DD366B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis.Plugins.AuroraxArtemis", "Artemis.Plugins.AuroraxArtemis\Artemis.Plugins.AuroraxArtemis.csproj", "{CDC84084-2670-4EF5-941B-D685B2DD366B}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution

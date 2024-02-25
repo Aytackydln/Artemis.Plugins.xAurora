@@ -1,0 +1,14 @@
+{
+    "Guid": "DDEDEF68-E63C-4341-99CE-EBFA951E60E2",
+    "Name": "Aurora X Artemis",
+    "Description": "Disable Aurora devices when Artemis opens. Works with Aurora v217+",
+    "Author": "Aytackydln",
+    "Repository": "https://github.com/Aytackydln/Artemis.Plugins.xAurora",
+    "Icon": "AuroraxArtemis.png",
+    "Version": "1.0.0.0",
+    "Main": "Artemis.Plugins.AuroraxArtemis.dll",
+    "AutoEnableProperties": true,
+    "RequiresAdmin": false,
+    "Platforms": "Windows",
+    "API": "1.0.0"
+}
